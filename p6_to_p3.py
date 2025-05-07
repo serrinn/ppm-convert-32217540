@@ -35,4 +35,4 @@ def convert_p6_to_p3(input_path, output_path):
 
 
 if __name__ == "__main__":
-    convert_p6_to_p3("/home/s32217540/colorP6File.ppm", "/home/s32217540/convertedP3.ppm")
+    convert_p6_to_p3("/home/data/colorP6File.ppm", "/home/s32217540/convertedP3.ppm")
